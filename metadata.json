@@ -1,0 +1,8 @@
+{
+  "name": "Rockscanner AI",
+  "description": "Comprehensive AI-powered geological intelligence platform for field research and petrographic analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
